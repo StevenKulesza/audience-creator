@@ -3,6 +3,9 @@
 ## First: Make sure you have python installed
 `python -v`
 
+### If you use Windows
+`pip install pandas`
+
 ### Master Build
 
 Drop the product_map.csv file in to the master directory. **Must be named exact.**
