@@ -1,0 +1,52 @@
+﻿Image Name,lifecycle segment,weather,censhareid
+as_gpo_110218_both1,loyalist,cold,12553223
+as_gpo_110218_both2,loyalist,hot,10823342
+as_gpo_110218_both3,loyalist,hot,10799776
+as_gpo_110218_both4,loyalist,hot,10820748
+as_gpo_110218_both5,loyalist,cold,12793592
+as_gpo_110218_both6,loyalist,hot,11970187
+as_gpo_110218_both7,loyalist,hot,11076503
+as_gpo_110218_both8,loyalist,both,11142909
+as_gpo_110218_both9,loyalist,both,11142991
+as_gpo_110218_loy1,loyalist,cold,12514831
+as_gpo_110218_loy3,loyalist,cold,12405922
+as_gpo_110218_loy4,loyalist,hot,10997617
+as_gpo_110218_loy6,loyalist,hot,10865113
+as_gpo_110218_loy7,loyalist,cold,12522192
+as_gpo_110218_loy8,loyalist,cold,10872893
+as_gpo_110218_loy9,loyalist,cold,10820751
+as_gpo_110218_loy10,loyalist,hot,12531352
+as_gpo_110218_loy13,loyalist,cold,12359937
+as_gpo_110218_loy15,loyalist,cold,11076458
+as_gpo_110218_loy17,loyalist,hot,10323796
+as_gpo_110218_loy20,loyalist,both,11143059
+as_gpo_110218_both1,non-loyalist  (&prospect),cold,12553223
+as_gpo_110218_both2,non-loyalist  (&prospect),hot,10823342
+as_gpo_110218_both3,non-loyalist  (&prospect),hot,10799776
+as_gpo_110218_both4,non-loyalist  (&prospect),hot,10820748
+as_gpo_110218_both5,non-loyalist  (&prospect),cold,12793592
+as_gpo_110218_both6,non-loyalist  (&prospect),hot,11970187
+as_gpo_110218_both7,non-loyalist  (&prospect),hot,11076503
+as_gpo_110218_both8,non-loyalist  (&prospect),both,11142909
+as_gpo_110218_both9,non-loyalist  (&prospect),both,11142991
+as_gpo_110218_non1,non-loyalist  (&prospect),cold,12428966
+as_gpo_110218_non2,non-loyalist  (&prospect),cold,11970461
+as_gpo_110218_non3,non-loyalist  (&prospect),cold,10823260
+as_gpo_110218_non4,non-loyalist  (&prospect),hot,10823420
+as_gpo_110218_non5,non-loyalist  (&prospect),hot,12431139
+as_gpo_110218_non6,non-loyalist  (&prospect),hot,10823266
+as_gpo_110218_non7,non-loyalist  (&prospect),cold,12431382
+as_gpo_110218_non8,non-loyalist  (&prospect),cold,10820838
+as_gpo_110218_non9,non-loyalist  (&prospect),cold,11076714
+as_gpo_110218_non10,non-loyalist  (&prospect),hot,12431389
+as_gpo_110218_non11,non-loyalist  (&prospect),hot,10820900
+as_gpo_110218_non12,non-loyalist  (&prospect),hot,10970177
+as_gpo_110218_non13,non-loyalist  (&prospect),cold,11970268
+as_gpo_110218_non14,non-loyalist  (&prospect),cold,12431494
+as_gpo_110218_non15,non-loyalist  (&prospect),cold,11516801
+as_gpo_110218_non16,non-loyalist  (&prospect),hot,11970184
+as_gpo_110218_non17,non-loyalist  (&prospect),hot,12431448
+as_gpo_110218_non18,non-loyalist  (&prospect),hot,10297892
+as_gpo_110218_non19,non-loyalist  (&prospect),both,11143951
+as_gpo_110218_non20,non-loyalist  (&prospect),both,9106897
+as_gpo_110218_non21,non-loyalist  (&prospect),both,11144337
