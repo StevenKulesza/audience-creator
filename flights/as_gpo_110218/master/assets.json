@@ -1,5 +1,6 @@
 {
-    "nonloyalist_cold_products": [{
+    "nonloyalist_cold_products": [
+        {
         "id": "as_gpo_110218_both1",
         "division": "non-loyalist  (&prospect)",
         "censhare_id": "12553223",
@@ -160,7 +161,8 @@
         "img_2_728x90": "https://dev-kohls-feed.moxhost.com/images/a_gpo_071318/728x90_as_gpo_110218_non21_logo.png",
         "style": null
     }],
-    "nonloyalist_hot_products": [{
+    "nonloyalist_hot_products": [
+        {
         "id": "as_gpo_110218_both2",
         "division": "non-loyalist  (&prospect)",
         "censhare_id": "10823342",
@@ -351,7 +353,8 @@
         "img_2_728x90": "https://dev-kohls-feed.moxhost.com/images/a_gpo_071318/728x90_as_gpo_110218_non21_logo.png",
         "style": null
     }],
-    "loyalist_cold_products": [{
+    "loyalist_cold_products": [
+        {
         "id": "as_gpo_110218_both1",
         "division": "loyalist",
         "censhare_id": "12553223",
@@ -472,7 +475,8 @@
         "img_2_728x90": "https://dev-kohls-feed.moxhost.com/images/a_gpo_071318/728x90_as_gpo_110218_loy20_logo.png",
         "style": null
     }],
-    "loyalist_hot_products": [{
+    "loyalist_hot_products": [
+        {
         "id": "as_gpo_110218_both2",
         "division": "loyalist",
         "censhare_id": "10823342",

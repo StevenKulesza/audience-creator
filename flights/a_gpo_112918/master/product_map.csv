@@ -1,0 +1,56 @@
+﻿Image Name,lifecycle segment,weather,censhareid,category
+a_gpo_112918_both1,loyalist,cold,12480857,women
+a_gpo_112918_both2,loyalist,cold,12459408,women
+a_gpo_112918_both3,loyalist,cold,12389476,women
+a_gpo_112918_both4,loyalist,hot,12405914,women
+a_gpo_112918_both5,loyalist,hot,12392709,women
+a_gpo_112918_both6,loyalist,cold,12532179,men
+a_gpo_112918_both7,loyalist,cold,1002470,men
+a_gpo_112918_both8,loyalist,hot,12395754,men
+a_gpo_112918_both9,loyalist,hot,12758063,men
+a_gpo_112918_both10,loyalist,cold,12793592,kids
+a_gpo_112918_both11,loyalist,hot,11970187,kids
+a_gpo_112918_both12,loyalist,both,11142909,home
+a_gpo_112918_both13,loyalist,both,11142991,home
+a_gpo_112918_loy1,loyalist,hot,12480696,women
+a_gpo_112918_loy2,loyalist,cold,12987199,men
+a_gpo_112918_loy3,loyalist,hot,12003349,men
+a_gpo_112918_loy4,loyalist,cold,12359937,kids
+a_gpo_112918_loy5,loyalist,cold,11076458,kids
+a_gpo_112918_loy6,loyalist,hot,10298137,kids
+a_gpo_112918_loy7,loyalist,hot,11076503,kids
+a_gpo_112918_loy8,loyalist,both,11143059,home
+a_gpo_112918_both1,non-loyalist  (&prospect),cold,12480857,women
+a_gpo_112918_both2,non-loyalist  (&prospect),cold,12459408,women
+a_gpo_112918_both3,non-loyalist  (&prospect),cold,12389476,women
+a_gpo_112918_both4,non-loyalist  (&prospect),hot,12405914,women
+a_gpo_112918_both5,non-loyalist  (&prospect),hot,12392709,women
+a_gpo_112918_both6,non-loyalist  (&prospect),cold,12532179,men
+a_gpo_112918_both7,non-loyalist  (&prospect),cold,1002470,men
+a_gpo_112918_both8,non-loyalist  (&prospect),hot,12395754,men
+a_gpo_112918_both9,non-loyalist  (&prospect),hot,12758063,men
+a_gpo_112918_both10,non-loyalist  (&prospect),cold,12793592,kids
+a_gpo_112918_both11,non-loyalist  (&prospect),hot,11970187,kids
+a_gpo_112918_both12,non-loyalist  (&prospect),both,11142909,home
+a_gpo_112918_both13,non-loyalist  (&prospect),both,11142991,home
+a_gpo_112918_non1,non-loyalist  (&prospect),cold,12428968,women
+a_gpo_112918_non2,non-loyalist  (&prospect),both,12515787,women
+a_gpo_112918_non3,non-loyalist  (&prospect),cold,12538267,women
+a_gpo_112918_non4,non-loyalist  (&prospect),hot,12431141,women
+a_gpo_112918_non6,non-loyalist  (&prospect),hot,10823266,women
+a_gpo_112918_non7,non-loyalist  (&prospect),cold,11970472,men
+a_gpo_112918_non8,non-loyalist  (&prospect),cold,12431383,men
+a_gpo_112918_non9,non-loyalist  (&prospect),cold,11076714,men
+a_gpo_112918_non10,non-loyalist  (&prospect),hot,12431442,men
+a_gpo_112918_non11,non-loyalist  (&prospect),hot,10820900,men
+a_gpo_112918_non12,non-loyalist  (&prospect),hot,10970177,men
+a_gpo_112918_non13,non-loyalist  (&prospect),cold,12431446,kids
+a_gpo_112918_non14,non-loyalist  (&prospect),cold,12464384,kids
+a_gpo_112918_non15,non-loyalist  (&prospect),cold,12691530,kids
+a_gpo_112918_non16,non-loyalist  (&prospect),hot,11970184,kids
+a_gpo_112918_non17,non-loyalist  (&prospect),hot,12691532,kids
+a_gpo_112918_non18,non-loyalist  (&prospect),hot,12703588,kids
+a_gpo_112918_non19,non-loyalist  (&prospect),both,11143951,home
+a_gpo_112918_non20,non-loyalist  (&prospect),both,9106897,home
+a_gpo_112918_non21,non-loyalist  (&prospect),both,11144337,home
+,,,,
