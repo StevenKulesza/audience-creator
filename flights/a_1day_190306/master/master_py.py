@@ -31,9 +31,7 @@ def generate_assets(all_assets):
             asset_obj = OrderedDict()
             asset_obj["id"] = product[0]
             asset_obj["division"] = product[1]
-            asset_obj["web_id"] = product[4]
-            asset_obj["brand"] = product[3]
-            asset_obj["category"] = product[2]
+            asset_obj["censhare_id"] = product[3]
             for frame_key, size in PRODUCT_FRAME_SIZES.iteritems():
                 if size[1].lower() == '_logo':
                     asset_obj[frame_key] = IMAGE_PATH + size[0] + "_" + product[0] + size[1] + ".png"
@@ -63,14 +61,14 @@ def create_lol_non_json():
         reader.next()
         for row in reader:
             if row[1].lower() == 'loyalist':
-                if row[5].lower() in ['cold', 'both']:
+                if row[2].lower() in ['cold', 'both']:
                     all_assets['loyalist_cold_products'].append(row)
-                if row[5].lower() in ['hot', 'both']:
+                if row[2].lower() in ['hot', 'both']:
                     all_assets['loyalist_hot_products'].append(row)
             else:
-                if row[5].lower() in ['cold', 'both']:
+                if row[2].lower() in ['cold', 'both']:
                     all_assets['nonloyalist_cold_products'].append(row)
-                if row[5].lower() in ['hot', 'both']:
+                if row[2].lower() in ['hot', 'both']:
                     all_assets['nonloyalist_hot_products'].append(row)
 
     generate_assets(all_assets)

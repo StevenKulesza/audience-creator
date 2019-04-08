@@ -11,11 +11,11 @@ FLIGHT_DATE = "112918"
 FLIGHT_NAME = "a_gpo_{}".format(FLIGHT_DATE)
 IMAGE_PATH = "https://dev-kohls-feed.moxhost.com/images/{}/".format(FLIGHT_NAME)
 PRODUCT_FRAME_SIZES = {
-    "img_160x600": ["160x600", ""],
-    "img_300x250": ["300x250", ""],
-    "img_300x600": ["300x600", ""],
-    "img_728x90": ["728x90", ""],
-    "img_2_728x90": ["728x90", "_logo"]
+    "img_160x600_a": ["160x600", ""],
+    "img_300x250_a": ["300x250", ""],
+    "img_300x600_a": ["300x600", ""],
+    "img_728x90_a": ["728x90", ""],
+    "img_2_728x90_a": ["728x90", "_logo"]
     }
 
 
